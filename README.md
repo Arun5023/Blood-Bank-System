@@ -10,4 +10,5 @@ hospital can take blood from organization.
 Organization is the main part of the project it contains a dashboard that shows the total in , total out and avability of each blood group. Two type of operation performed in this systemthat is Inventory In and Inventory Out.
 Donar and Hospital contain history page where they can check all the donationation/withdraw history.
 All the important validation checks are applied in the login/register page and in Add Inventory form
+
 Deploy on renderIO - https://bloodbanksystem-arun.onrender.com
