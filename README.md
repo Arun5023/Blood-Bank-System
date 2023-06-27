@@ -11,6 +11,6 @@ Organization is the main part of the project it contains a dashboard that shows 
 Donar and Hospital contain history page where they can check all the donationation/withdraw history.
 All the important validation checks are applied in the login/register page and in Add Inventory form
 
-I also applied automation for checking register, login and Add Inventory from functionality
+I also applied automation for checking Register, Login and Add Inventory from functionality
 
 Deploy on renderIO - https://bloodbanksystem-arun.onrender.com
