@@ -13,4 +13,4 @@ All the important validation checks are applied in the login/register page and i
 
 I also applied automation for checking Register, Login and Add Inventory from functionality
 
-Deploy on renderIO - https://bloodbanksystem-arun.onrender.com
+
